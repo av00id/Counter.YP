@@ -42,8 +42,7 @@ class ViewController: UIViewController {
     @IBAction private func tapForUpdateCount(_ sender: Any) {
         count += 1
         updateCounter()
-        print("Значение счетчика:  \(count)")
-              }
     
+    }
 }
 ///
