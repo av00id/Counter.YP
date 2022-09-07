@@ -35,7 +35,6 @@ class ViewController: UIViewController {
     
     private func updateCounter() {
         countLabel.text = "Значение счетчика:  \(count)"
-        print("Вызов функции")
     }
 
     //MARK: - Работа кнопки для изменения значения счетчика
